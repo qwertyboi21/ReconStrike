@@ -1,4 +1,4 @@
-# ReconStrike
+## ReconStrike
 A interactive shell that has all the tools needed for web recon.
 
 # Requirements 
@@ -11,5 +11,5 @@ Once you have cloned the repository, cd into the directory, and run the command 
 There are some more tools besides ReconStrike that will be included, so feel free to check them out as well
 
 # Contributers
-So far I am the only contributer, but that can change. If you are will to send me some code taht you thing will be useful, I will happily try it out.
+So far I am the only contributer, but that can change. If you are will to send me some code that you think will be useful, I will happily try it out.
 
