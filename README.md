@@ -8,7 +8,8 @@ You will also need to install python nmap as well, and you can install this with
 
 # How to use
 Once you have cloned the repository, cd into the directory, and run the command python2 ReconStrike.py.
-There are some more tools besides ReconStrike that will be included, so feel free to check them out as well
+There are some more tools besides ReconStrike that will be included, so feel free to check them out as well.
+Just make sure that you clone to whole repository, because you will neede every file that is included to make the programs work
 
 # Contributers
 So far I am the only contributer, but that can change. If you are will to send me some code that you think will be useful, I will happily try it out.
